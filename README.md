@@ -1,4 +1,4 @@
-## **Viral Social Media Trends 📈**
+##### **Viral Social Media Trends 📈**
 This project visualizes viral trends across major social media platforms like Instagram, TikTok, Twitter, and YouTube. It focuses on analyzing views, likes, shares, and comments by content type, region, engagement level, hashtags, and platform.
 
 📊 Dashboard Insights
